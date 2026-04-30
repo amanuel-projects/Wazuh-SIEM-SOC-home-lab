@@ -85,7 +85,6 @@ The lab simulates real-world SOC workflows including log ingestion, threat detec
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
 - Agent active status
 - Failed login events
 - File integrity monitoring alerts
